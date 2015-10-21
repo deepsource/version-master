@@ -1,5 +1,7 @@
 # version-master
 
+
+[![deepsource crafted](https://img.shields.io/badge/deepsource-crafted-blue.svg)](http://deepsource.de)
 [![Build Status](https://travis-ci.org/deepsource/version-master.svg?branch=master)](https://travis-ci.org/deepsource/version-master)
 
 version-master lets you analyze and compare versions.
