@@ -1,5 +1,7 @@
 # version-master
 
+[![Build Status](https://travis-ci.org/deepsource/version-master.svg?branch=master)](https://travis-ci.org/deepsource/version-master)
+
 version-master lets you analyze and compare versions.
 
 ## Analyzing versions
