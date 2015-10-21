@@ -1,0 +1,18 @@
+{
+  "name": "version-master",
+  "version": "1.0.0",
+  "description": "Version master lets you analyze and compare versions.",
+  "main": "version-master.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Sebastian Ullrich",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "should": "^7.1.1"
+  }
+}
